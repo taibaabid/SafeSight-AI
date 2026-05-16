@@ -1,0 +1,4 @@
+opencv-python
+mediapipe
+tensorflow
+protobuf==3.20.3
